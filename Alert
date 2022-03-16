@@ -1,0 +1,8 @@
+<script>
+var x = 1
+var y = 1
+if (x == y) {
+alert ("Olá Mundo!");
+}
+alert ("Ciao Mundo!");
+</script>
